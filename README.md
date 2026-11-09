@@ -3,7 +3,7 @@
 Paper for the *2026 Gemma 4 Developer Agent* competition, paper track.
 
 **Title:** Same Bytes, Different Scores: What a Code-Agent Leaderboard Measures
-**Author:** Wang Chen (South China University of Technology)
+**Authors:** Wang Chen and Youtao Liu (South China University of Technology)
 
 ## Contents
 
